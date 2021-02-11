@@ -8,9 +8,10 @@ html,body{
 }
 
 .header{
-    height: 50px;
-    line-height: 50px;
+    height: 60px;
+    line-height: 60px;
     text-align: center;
+    border-bottom: 1px solid #282b33;
 }
 
 .layui-nav-img{
